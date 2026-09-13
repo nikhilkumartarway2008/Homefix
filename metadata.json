@@ -1,0 +1,6 @@
+{
+  "name": "HomeFix",
+  "description": "Premium on-demand home services marketplace app for booking verified electricians, plumbers, carpenters, and technicians.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
